@@ -1,0 +1,39 @@
+:root {
+  /* Brand + product colors aligned to Youtube Exclusive reference */
+  --scf-purple-100: #470FAA;
+  --scf-purple-200: #2F1164;
+  --scf-blue-100: #1A56DB;
+  --scf-blue-200: #1C64F2;
+  --scf-blue-300: #1E429F;
+  --scf-green-100: #31A865;
+
+  --scf-bg-100: #F9FAFB;
+  --scf-bg-200: #F3F4F6;
+  --scf-surface: #FFFFFF;
+
+  --scf-text-100: #111827;
+  --scf-text-200: #374151;
+  --scf-text-300: #6B7280;
+  --scf-border: #D1D5DB;
+
+  --color-bg: var(--scf-bg-100);
+  --color-surface: var(--scf-surface);
+  --color-text: var(--scf-text-100);
+  --color-muted: var(--scf-text-300);
+  --color-border: var(--scf-border);
+
+  --color-primary: var(--scf-blue-100);
+  --color-primary-hover: var(--scf-blue-300);
+  --color-accent: var(--scf-purple-100);
+  --color-success: var(--scf-green-100);
+
+  --font-body: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-heading: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 12px;
+
+  --shadow-sm: 0 1px 2px rgba(17, 24, 39, 0.06);
+  --shadow-md: 0 6px 16px rgba(17, 24, 39, 0.1);
+}
